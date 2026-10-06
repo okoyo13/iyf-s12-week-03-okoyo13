@@ -170,28 +170,6 @@ css/  images/  js/
 
 `ls -R` lists contents **recursively** — that's how you confirm nested folders were created correctly.
 
----
-
-## Summary of commands used
-
-| Command | Purpose |
-|---|---|
-| `pwd` | Print working directory — shows where you are |
-| `ls` | List files and folders in current directory |
-| `ls -l` | Long format listing |
-| `ls -a` | Show hidden files too |
-| `ls -R` | Recursive listing (shows nested contents) |
-| `cd ~/Documents` | Navigate to Documents |
-| `cd ..` | Go up one directory |
-| `cd ~` | Go to home directory |
-| `cd -` | Go to previous directory |
-| `mkdir name` | Create a folder |
-| `mkdir -p a/b/c` | Create nested folders in one command |
-| `touch file.md` | Create an empty file (Git Bash / Mac / Linux) |
-| `New-Item -ItemType File` | Create an empty file (PowerShell) |
-
----
-
 ## What I learned
 
 1. **`~` is a shortcut to home** — no more typing the full path.
