@@ -23,3 +23,25 @@ Get-ChildItem .\test-project-output -Recurse -Name
 
 ## Create Terminal Log
 New-Item -ItemType File -Name "terminal-log.md"
+
+## Task 5.1 - Create Project Structure
+
+```powershell
+Test-Path .\my-project
+New-Item -ItemType Directory -Force -Path .\my-project\src\css, .\my-project\src\js, .\my-project\src\images, .\my-project\docs, .\my-project\tests
+Test-Path .\my-project\README.md
+Get-ChildItem .\my-project -Recurse -Name
+```
+## Task 5.1 - Basic Navigation
+
+```powershell
+pwd
+ls
+cd ~/Documents
+pwd
+cd ..
+pwd
+cd ~
+pwd
+cd "$HOME\iyf-s12-week-03-okoyo13"
+```
