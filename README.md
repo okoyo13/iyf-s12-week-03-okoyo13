@@ -8,7 +8,7 @@ This is my Week 03 portfolio project for the IYF program. The project focuses on
 
 [View Live Site](https://okoyo13.github.io/iyf-s12-week-03-okoyo13/)
 
-> Note: The live demo will be available once GitHub Pages is configured for this repository.
+> Note: GitHub Pages is enabled for this repository. Open the link above to view the live page.
 
 ## Screenshot
 
