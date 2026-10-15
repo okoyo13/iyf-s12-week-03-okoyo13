@@ -1,4 +1,4 @@
-# Okoyo13 - Week 03 Project
+# Rodricks Okoyo - Portfolio
 
 ## Project Description
 
@@ -34,7 +34,6 @@ This is my Week 03 portfolio project for the IYF program. The project focuses on
 
 ```text
 
-iyf-s12-week-03-okoyo13/
 ├── docs/
 ├── src/
 │   ├── css/
