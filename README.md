@@ -14,14 +14,14 @@ This is my Week 03 portfolio project for the IYF program. The project focuses on
 
 ![Project Screenshot](./src/images/screenshot.png)
 
-> Add your project screenshot to `src/images/screenshot.png` once it is ready.
-
 ## Features
 
-- Responsive design
-- Accessible and semantic HTML
-- Multi-page portfolio layout
-- Contact form
+- Responsive layout for desktop and mobile devices
+- Semantic HTML structure and accessible navigation
+- Single-page portfolio with Home, About, Projects, and Contact sections
+- Project cards showcasing learning projects
+- Email contact link
+- Mobile navigation menu powered by JavaScript
 
 ## Technologies Used
 
@@ -33,20 +33,22 @@ This is my Week 03 portfolio project for the IYF program. The project focuses on
 ## Project Structure
 
 ```text
+
 iyf-s12-week-03-okoyo13/
 ├── docs/
 ├── src/
 │   ├── css/
+│   │   └── style.css
 │   ├── images/
+│   │   └── screenshot.png
 │   ├── js/
-│   └── portfolio/
-│       ├── index.html
-│       ├── css/
-│       │   └── style.css
-│       └── js/
-│           └── script.js
+│   │   └── script.js
+│   └── index.html
 ├── tests/
+├── .gitignore
+├── LICENSE
 └── README.md
+
 ```
 
 ## What I Learned
@@ -59,12 +61,11 @@ iyf-s12-week-03-okoyo13/
 
 ## Future Improvements
 
-- [ ] Add JavaScript interactivity.
+- [ ] Add more portfolio projects as I complete them.
+- [ ] Improve JavaScript interactivity.
 - [ ] Implement dark mode.
 - [ ] Add project filtering.
-- [ ] Complete and test the portfolio pages.
-- [ ] Add a project screenshot.
-- [ ] Test accessibility and responsiveness.
+- [ ] Test accessibility and responsiveness on different devices.
 
 ## Contact
 
