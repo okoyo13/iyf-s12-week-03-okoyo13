@@ -1,4 +1,4 @@
-# Rodricks Okoyo - Portfolio
+# Rodricks Okoyo - Week 03 Project
 
 ## Project Description
 
