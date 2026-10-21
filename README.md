@@ -72,6 +72,14 @@ This is my Week 03 portfolio project for the IYF program. The project focuses on
 - **LinkedIn:** [Rodricks_okoyo](https://www.linkedin.com/in/rodricks-okoyo-218960255/)
 - **GitHub:** [@okoyo13](https://github.com/okoyo13)
 
+## Collaboration Section.
+
+- **Partner:** [Wilfred-Mutuma](https://github.com/Wilfred-Mutuma)
+- **Pair Repository:** [Pair Repository](https://github.com/okoyo13/iyf-s12-week-03-pair-okoyo13)
+- **PR I Opened:** [My Profile Pull Request](https://github.com/okoyo13/iyf-s12-week-03-pair-okoyo13/pull/1)
+- **PR I Reviewed:** [Partner's Profile Pull Request](https://github.com/okoyo13/iyf-s12-week-03-pair-okoyo13/pull/3)
+- **Merge-Conflict PR:** [README Merge-Conflict Pull Request](https://github.com/okoyo13/iyf-s12-week-03-pair-okoyo13/pull/2)
+
 ## License
 
 This project is open source and available under the [MIT License](LICENSE).
