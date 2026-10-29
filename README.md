@@ -4,9 +4,11 @@
 
 This is my Week 03 portfolio project for the IYF program. The project focuses on building a personal portfolio website using HTML5 and CSS3, organizing project files, and practicing Git and GitHub workflows.
 
-## Live Demo
+## 🌐 My Portfolio
 
-[View Live Site](https://okoyo13.github.io/iyf-s12-week-03-okoyo13/)
+Check out my live portfolio:
+
+[**View My Portfolio**](https://okoyo13.github.io/iyf-s12-week-03-okoyo13/)
 
 > Note: GitHub Pages is enabled for this repository. Open the link above to view the live page.
 
